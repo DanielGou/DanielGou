@@ -27,7 +27,7 @@
         Name: Daniel Gonçalves Goulart
         Age: 19
         State: Santa Catarina
-        Stack: JavaScript, React.JS, Node.JS, MongoDB
+        Stack: JavaScript, React.JS, Vue.JS, Node.JS, MongoDB
       </>
     </React.StrictMode>,
     document.getElementById('root')
