@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/daniel-gon%C3%A7alves-goulart-3350b91b8/" target="_blank" style="text-decoration: none;">
       <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
-    <a href="https://t.me/DanielGoou" target="_blank" style="text-decoration: none;">
-      <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white">
-    </a>
     <a href="mailto:danielpraiadorosa@gmail.com" target="_blank" style="text-decoration: none;">
       <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white">
     </a>    
