@@ -22,7 +22,7 @@
     <React.StrictMode>
       <>
         Name: Daniel Gonçalves Goulart
-        Age: 19
+        Age: 20
         State: Santa Catarina
         Stack: JavaScript, React.JS, Vue.JS, Node.JS, MongoDB
       </>
